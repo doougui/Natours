@@ -1,0 +1,28 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Outdoors is where life happens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doougui/Natours.git"
+  },
+  "keywords": [
+    "natours",
+    "landing",
+    "page",
+    "css"
+  ],
+  "author": "Douglas Pinheiro Goulart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doougui/Natours/issues"
+  },
+  "homepage": "https://github.com/doougui/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
