@@ -24,5 +24,6 @@
   "homepage": "https://github.com/doougui/Natours#readme",
   "devDependencies": {
     "node-sass": "^5.0.0"
-  }
+  },
+  "dependencies": {}
 }
